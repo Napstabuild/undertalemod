@@ -1,0 +1,16 @@
+[
+{
+  "modid": "undertale",
+  "name": "Undertale Mod",
+  "description": "Mod adding Undertale content into base-game Minecraft..",
+  "version": "Alpha 0.1",
+  "mcversion": "${mcversion}",
+  "url": "https://napstabuild.wixsite.com/napstabuildco",
+  "updateUrl": "",
+  "authorList": ["Deserys, Lacrymo"],
+  "credits": "The Napstabuild modding team.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
